@@ -76,7 +76,7 @@ const CourseInfo = {
     }
   ];
   
-  function getLearnerData(course, ag, submissions) {
+  function getLearnerData() {
     // here, we would process this data to achieve the desired result.
     const result = [
       {
